@@ -4,7 +4,7 @@ Welcome to my professional portfolio! This repository showcases my skills, proje
 
 ## Screenshots
   ![About](image-2.png)
-  ![Screenshot](education.png)
+  ![alt text](image-3.png)
   ![Screenshot](skills.png)
   ![Screenshot](getInTouch.png)
 ## Table of Contents
