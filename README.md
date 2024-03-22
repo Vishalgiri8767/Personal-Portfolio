@@ -6,7 +6,7 @@ Welcome to my professional portfolio! This repository showcases my skills, proje
   ![About](image-2.png)
   ![alt text](image-3.png)
   ![alt text](image-4.png)
-  ![Screenshot](getInTouch.png)
+  ![alt text](image-5.png)
 ## Table of Contents
 
 - [Home](#home)
