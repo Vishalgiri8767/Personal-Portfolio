@@ -12,6 +12,8 @@ Welcome to my professional portfolio! This repository showcases my skills, proje
 - [Home](#home)
 - [Education](#education)
 - [Professional Skills](#skills)
+- [Professional Skills](#skills)
+- [Projects](#projects)
 - [Get In Touch](#getInTouch)
 
 
