@@ -23,7 +23,6 @@ Connect with me! Feel free to reach out for collaboration, job opportunities, or
 
 - **Email:** vishalgiri8767@gmail.com
 - **LinkedIn:** [https://www.linkedin.com/in/vishalgiri07/](linkedin-link)
-- **Portfolio:** [https://github.com/Vishalgiri8767](your-portfolio-link)
 
 
 Thank you for visiting my portfolio! If you find it interesting, don't forget to ⭐️ the repository.
